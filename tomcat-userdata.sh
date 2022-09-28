@@ -7,3 +7,4 @@ unzip apache-tomcat-9.0.67-windows-x64.zip
 mv apache-tomcat-9.0.67 tomcat9
 rm -rf apache-tomcat-9.0.67-windows-x64.zip
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/fmw/wls/10g/r3/cluster/session_state/files/shoppingcart.zip
+cp shoppingcart.war /opt/tomcat9/webapps/
